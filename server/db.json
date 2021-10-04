@@ -12,19 +12,18 @@
     },
     {
       "title": "ID based stream",
-      "description": "I created this stream !!!! :D :D ",
+      "description": "This change was made with a patch request",
       "userId": "103832658546953597550",
       "id": 20
     },
     {
-      "title": "My Test Stream",
-      "description": "Awesome",
-      "userId": "103832658546953597550",
+      "title": "Modified test stream",
+      "description": "new description",
       "id": 21
     },
     {
-      "title": "My refactored stream",
-      "description": "The first refactored stream, with \"StreamForm\" component",
+      "title": "Here we go again",
+      "description": "hopefully it gets refreshed",
       "userId": "103832658546953597550",
       "id": 22
     }
