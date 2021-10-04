@@ -14,8 +14,8 @@ class StreamList extends React.Component {
         if(stream.userId===this.props.currentUserId){
             return (
                 <div className="right floated content">
-                        <button className="ui button primary">Edit</button>
-                        <button className="ui button negative">Delete</button>
+                        <Link to={`streams/edit/${stream.id}`} className="ui button primary">Edit</Link>
+                        <Link to="/" className="ui button negative">Delete</Link>
                 </div>
             )
         }
@@ -65,7 +65,7 @@ class StreamList extends React.Component {
 
 function mapStateToProps(state){
 
-    return({streams:Object.values(state.streams),
+    return({streams:Object.values(state.streams), //Transform object back to array
             currentUserId:state.auth.userId,
             isSignedIn:state.auth.isSignedIn});
 

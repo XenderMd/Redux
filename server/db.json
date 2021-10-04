@@ -3,22 +3,7 @@
     {
       "title": "My Stream Title",
       "description": "Amazing stream",
-      "id": 15
-    },
-    {
-      "title": "My Stream Title",
-      "description": "Amazing stream",
       "id": 16
-    },
-    {
-      "title": "My Stream Title",
-      "description": "Amazing stream 1",
-      "id": 17
-    },
-    {
-      "title": "My New Stream Title",
-      "description": "Amazing stream 1",
-      "id": 18
     },
     {
       "title": "My favorite stream",
@@ -30,6 +15,18 @@
       "description": "I created this stream !!!! :D :D ",
       "userId": "103832658546953597550",
       "id": 20
+    },
+    {
+      "title": "My Test Stream",
+      "description": "Awesome",
+      "userId": "103832658546953597550",
+      "id": 21
+    },
+    {
+      "title": "My refactored stream",
+      "description": "The first refactored stream, with \"StreamForm\" component",
+      "userId": "103832658546953597550",
+      "id": 22
     }
   ]
 }
