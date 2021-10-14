@@ -6,26 +6,9 @@
       "id": 16
     },
     {
-      "title": "My favorite stream",
-      "description": "Such an awesome stream",
-      "id": 19
-    },
-    {
-      "title": "ID based stream",
-      "description": "This change was made with a patch request",
-      "userId": "103832658546953597550",
-      "id": 20
-    },
-    {
       "title": "Modified test stream",
       "description": "new description",
       "id": 21
-    },
-    {
-      "title": "Here we go again",
-      "description": "hopefully it gets refreshed",
-      "userId": "103832658546953597550",
-      "id": 22
     }
   ]
 }
